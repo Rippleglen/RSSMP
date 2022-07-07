@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "CUB3D DIMENSIONS",
+      "version" : "1",
+      "location" : "cub3d-dimensions.json",
+      "priority" : 1
+    }
+  ]
+}
